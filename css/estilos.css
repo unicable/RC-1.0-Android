@@ -94,7 +94,7 @@ body{
   color: #000;
   border-bottom: 1px solid #CCC;
   border-top: 1px solid #D6D6D6;
-  background-color: red;
+  background-color: url("../img/back-nav.png");
 }
 
 /*.sidebar #nav > li > a:hover, .sidebar #nav > li > a.subdrop { 
