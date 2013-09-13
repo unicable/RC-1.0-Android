@@ -3,13 +3,13 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     id        = "app.radiocityfm.com"
 	versionCode = "1"
-    version   = "0.1">
+    version   = "1.0">
 
 <name>Radio City FM - Jujuy</name>
 <author href="http://www.radiocityfm.com" email="info@radiocityfm.com">
 MF
 </author>
-<description>Radio City FM - Jujuy, Argentina - Version 0.1</description>
+<description>Radio City FM - Jujuy, Argentina - Version 1.0</description>
 <icon src="icon.png" />
 <icon src="res/img/logo.png" gap:platform="android" gap:density="ldpi" />
 <icon src="res/img/logo.png" gap:platform="android" gap:density="mdpi" />

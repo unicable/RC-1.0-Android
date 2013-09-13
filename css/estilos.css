@@ -94,13 +94,7 @@ body{
   color: #000;
   border-bottom: 1px solid #CCC;
   border-top: 1px solid #D6D6D6;
-  background-color: #D6D6D6;
-  background: -webkit-gradient(linear, left top, left bottom, from(#1a1a1a), to(#111));
-  background: -webkit-linear-gradient(top, #FFFFFF, #D6D6D6);
-  background: -moz-linear-gradient(top, #FFFFFF, #D6D6D6);
-  background: -ms-linear-gradient(top, #FFFFFF, #D6D6D6);
-  background: -o-linear-gradient(top, #FFFFFF, #D6D6D6);
-  background: linear-gradient(top, #FFFFFF, #D6D6D6)
+  background-color: red;
 }
 
 /*.sidebar #nav > li > a:hover, .sidebar #nav > li > a.subdrop { 
