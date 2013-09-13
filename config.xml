@@ -9,7 +9,7 @@
 <author href="http://www.radiocityfm.com" email="info@radiocityfm.com">
 MF
 </author>
-<description>Radio City FM - Jujuy, Argentina - Version 1.0</description>
+<description>Radio City FM - TEST - Version 1.0</description>
 <icon src="icon.png" />
 <icon src="res/img/logo.png" gap:platform="android" gap:density="ldpi" />
 <icon src="res/img/logo.png" gap:platform="android" gap:density="mdpi" />
